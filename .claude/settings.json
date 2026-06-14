@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//d/quick_Quantitative_trading/**)",
+      "Bash(D:/quick_Quantitative_trading/venv/Scripts/python -c ' *)",
+      "Bash(cat \"D:/StockFormer_official/code/run_ashare.py\")",
+      "Read(//d/StockFormer_official/code/**)"
+    ],
+    "additionalDirectories": [
+      "D:\\StockFormer\\code",
+      "D:\\RL_TVDT\\sac_demo",
+      "D:\\StockFormer_official\\code"
+    ]
+  }
+}
